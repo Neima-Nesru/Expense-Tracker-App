@@ -1,5 +1,5 @@
 {
-  "homePage": "http://Nemuuuu.github.io/Expense-Tracker-App",
+  "homePage": "./",
   "name": "my-project",
   "version": "0.1.0",
   "private": true,
